@@ -3,9 +3,9 @@ layout: default
 title: Trang chu
 ---
 
-## Xin chao, minh la Pham Thanh An
+## Hello world
 
-Minh la sinh vien nam 3 nganh Information Security (Honors Program) tai University of Information Technology (UIT), dang tap trung vao Network Infrastructure va Network Security. Trang nay la noi minh tong hop CV, cac du an tieu bieu va bai viet chia se kinh nghiem hoc tap - thuc hanh.
+Tui là sinh viên năm 3 ngành An Toàn Thông Tin hệ cử nhân Tài Năng tại trường Đại Học Công Nghệ Thông Tin (UIT), định hướng nghề nghiệp là Network Infrastructure va Network Security. Trang này là nơi chia sẽ kiến thức, cv, và mong các nhà tuyển dụng để ý tới :>>
 
 [Xem CV cua toi]({{ '/cv/' | relative_url }})
 

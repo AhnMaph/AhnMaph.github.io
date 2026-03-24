@@ -1,2 +1,2 @@
 # AhnMaph.github.io
-A page about passion and cybersecurity
+A passion and curiosity

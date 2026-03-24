@@ -15,7 +15,7 @@ GitHub: [github.com/AhnMaph](https://github.com/AhnMaph)
 
 ## Tóm tắt bản thân
 
-Tôi là người học hỏi chăm chỉ và ham tìm hiểu, luôn đặt câu hỏi để đào sâu vào các vấn đề kỹ thuật phức tạp. Tôi cởi mở với phản hồi và mong muốn phát triển chuyên sâu trong mảng Network Infrastructure thông qua các tình huống thực tế tại môi trường chuyên nghiệp như VNG.
+Là một người học hỏi và ham tìm hiểu, luôn đặt câu hỏi cho mọi vấn đề. Mong muốn phát triển chuyên sâu trong mảng Network Infrastructure thông qua các tình huống thực tế tại môi trường chuyên nghiệp như VNG.
 
 ## Kỹ năng
 
@@ -52,7 +52,7 @@ _University of Information Technology (UIT), Feb 2023 - Jan 2027_
 
 ## Chứng chỉ
 
-- Connect and Protect: Networks and Network Security (Google) - Mar 2026
+- [Connect and Protect](https://coursera.org/share/a96f478e34b98ed0bb71045e870b1568): Networks and Network Security (Google) - Mar 2026
 - IELTS 6.5 (IDP) - Dec 2021
 
 ## Ngôn ngữ
