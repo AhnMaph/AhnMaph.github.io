@@ -4,6 +4,17 @@ title: "Bai viet dau tien"
 date: 2026-03-24 09:00:00 +0700
 ---
 
-## Lý do tạo blog
+Day la bai viet dau tien tren blog Jekyll cua ban.
 
-Mình muốn chia sẽ các kiến thức của mình và cũng như một cách lưu trữ kiến thức. Ngoài ra là để tạo profile cá nhân chia sẽ cuộc sống. Theo mình, tập thể sẽ lớn mạnh nếu mọi người đều chia sẽ kiến thức của mình.
+Ban co the viet noi dung bang Markdown nhu:
+
+- Danh sach gạch dau dong
+- **In dam**
+- *In nghieng*
+- [Lien ket](https://example.com)
+
+## Goi y cau truc bai viet
+
+1. Mo dau: Van de ban muon chia se.
+2. Noi dung chinh: Cach giai quyet/kinh nghiem/vi du.
+3. Ket luan: Tong ket va huong phat trien tiep theo.

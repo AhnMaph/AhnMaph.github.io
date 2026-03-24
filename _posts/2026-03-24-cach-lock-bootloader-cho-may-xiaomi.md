@@ -5,6 +5,7 @@ date: 2026-03-24 10:30:00 +0700
 categories: [network, mobile]
 tags: [xiaomi, redmi, poco, bootloader, fastboot, miflash]
 ---
+
 # WARNING
 Việc chạy phần mềm qua Mi Flash ở chế độ `clean all and lock` sẽ **CÀY PHẲNG MỌI DỮ LIỆU** và thiết lập lại hệ thống phân vùng. Bạn BẮT BỘC phải rà soát 3 chốt chặn an toàn sau:
 
