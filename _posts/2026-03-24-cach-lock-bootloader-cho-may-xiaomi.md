@@ -7,6 +7,8 @@ pin: false
 toc: true
 ---
 
+> Luu y: Bài viết mang tính tham khảo. Mọi thao tác flash ROM/khoa bootloader đều có rủi ro, bạn cần tự chịu trách nhiệm và đối chiếu thêm tài liệu chính thống cho đúng model máy.
+
 # WARNING
 
 Việc chạy phần mềm qua Mi Flash ở chế độ `clean all and lock` sẽ **CÀY PHẲNG MỌI DỮ LIỆU** và thiết lập lại hệ thống phân vùng. Bạn BẮT BỘC phải rà soát 3 chốt chặn an toàn sau:
@@ -130,5 +132,3 @@ Tải bản này sẽ đỡ lỗi hơn ví dụ timeout như sau
 ![Hinh 2](images/pic1-blog2.png)
 
 ---
-
-> Luu y: Bai viet mang tinh tham khao. Moi thao tac flash ROM/khoa bootloader deu co rui ro, ban can tu chiu trach nhiem va doi chieu them tai lieu chinh thong cho dung model may.
