@@ -1,10 +1,14 @@
 ---
-layout: page
-title: CV
-permalink: /cv/
+icon: fas fa-info-circle
+permalink: /about/
+order: 4
 ---
 
-## Phạm Thanh An
+## About me
+
+Tui là sinh viên năm 3 ngành An Toàn Thông Tin hệ cử nhân Tài Năng tại trường Đại Học Công Nghệ Thông Tin (UIT), định hướng nghề nghiệp là Network Infrastructure va Network Security. Trang này là nơi chia sẽ kiến thức, cv, và mong các nhà tuyển dụng để ý tới :»
+
+### Phạm Thanh An
 
 Email: [phamthanhan157@gmail.com](mailto:phamthanhan157@gmail.com)  
 Điện thoại: [+84 942 290 858](tel:+84942290858)  
@@ -15,7 +19,7 @@ GitHub: [github.com/AhnMaph](https://github.com/AhnMaph)
 
 ## Tóm tắt bản thân
 
-Là một người học hỏi và ham tìm hiểu, luôn đặt câu hỏi cho mọi vấn đề. Mong muốn phát triển chuyên sâu trong mảng Network Infrastructure thông qua các tình huống thực tế tại môi trường chuyên nghiệp như VNG.
+Là một người học hỏi và ham tìm hiểu, luôn đặt câu hỏi cho mọi vấn đề. Mong muốn phát triển chuyên sâu trong mảng Network Infrastructure thông qua các tình huống thực tế tại môi trường doanh nghiệp thực tế.
 
 ## Kỹ năng
 
@@ -26,14 +30,14 @@ Là một người học hỏi và ham tìm hiểu, luôn đặt câu hỏi cho 
 
 ## Dự án tiêu biểu
 
-### Multi-node Virtualization Cluster with Proxmox VE
+### [Multi-node Virtualization Cluster with Proxmox VE](https://github.com/AhnMaph/Virtualization-System-based-on-Proxmox-)
 
 - Thiết kế và triển khai hạ tầng ảo hóa dùng Proxmox VE.
 - Xây dựng cụm 3-node Proxmox VE kết hợp Ceph Distributed Storage để tăng High Availability (HA).
 - Cấu hình inbound/outbound firewall rules nhằm giảm rủi ro brute-force và tăng network isolation.
 - Sử dụng HA Manager cho live migration tự động, kết hợp ZFS cho snapshots, backup và recovery.
 
-### Linux Network Security Hardening with iptables
+### [Linux Network Security Hardening with iptables](https://drive.google.com/drive/u/0/folders/1oEGAvvIlAo1kBRr3wlLB8CP3cvX8IeAA)
 
 - Xây dựng hệ thống firewall mã nguồn mở bằng iptables để bảo vệ hạ tầng mạng và kiểm soát luồng truy cập.
 - Thiết kế topology gồm Internet, Firewall, DMZ và LAN để đảm bảo phân tách theo kiến trúc.

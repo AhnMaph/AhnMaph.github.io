@@ -1,1 +1,19 @@
+# Jekyll build output and caches
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Dependencies
+vendor/
+vendor/bundle/
+.bundle/
+node_modules/
+
+# Logs and local env
+*.log
+.DS_Store
+Thumbs.db
+
+# User docs/assets that should not be committed
 *.pdf

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: "Cach lock bootloader cho may Xiaomi / Redmi / Poco"
 date: 2026-03-24 10:30:00 +0700
-categories: [network, mobile]
+categories: [mobile, android]
 tags: [xiaomi, redmi, poco, bootloader, fastboot, miflash]
+pin: false
+toc: true
 ---
 
 # WARNING
