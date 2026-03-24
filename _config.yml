@@ -1,7 +1,54 @@
+lang: vi-VN
+timezone: Asia/Ho_Chi_Minh
+
 title: "Portfolio & Blog cua toi"
-email: "phamthanhan157@gmail.com"
+tagline: "A passion and curiosity"
 description: "Compassion is often birthed in the valley of despair."
 
-remote_theme: pages-themes/architect@v0.2.0
+url: "https://ahnmaph.github.io"
+baseurl: ""
+
+github:
+  username: AhnMaph
+
+twitter:
+  username:
+
+social:
+  name: Pham Thanh An
+  email: phamthanhan157@gmail.com
+  links:
+    - https://github.com/AhnMaph
+
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+theme_mode: dark
+
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-include-cache
+
+pagination:
+  enabled: true
+  per_page: 10
+  sort_reverse: true
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: false
+      toc: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page

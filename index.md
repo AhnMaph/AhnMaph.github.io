@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Trang chu
 ---
 
@@ -11,7 +11,7 @@ Tui là sinh viên năm 3 ngành An Toàn Thông Tin hệ cử nhân Tài Năng 
 
 ---
 
-## Bai viet moi nhat
+## Bài viết mới nhất
 
 {% if site.posts.size > 0 %}
 {% for post in site.posts %}

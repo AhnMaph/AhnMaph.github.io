@@ -7,6 +7,7 @@ tags: [xiaomi, redmi, poco, bootloader, fastboot, miflash]
 ---
 
 # WARNING
+
 Việc chạy phần mềm qua Mi Flash ở chế độ `clean all and lock` sẽ **CÀY PHẲNG MỌI DỮ LIỆU** và thiết lập lại hệ thống phân vùng. Bạn BẮT BỘC phải rà soát 3 chốt chặn an toàn sau:
 
 1. **Bảo vệ mã Authenticator / MFA (Rủi ro vĩnh viễn):** Khôi phục cài đặt gốc sẽ xóa sạch các app tạo mã (Google/Microsoft Authenticator, Authy...). Nếu bạn đang dùng chúng để bảo mật các tài khoản trọng yếu (AWS, Server, Binance, Google, Facebook...), **BẮT BUỘC phải Export (Chuyển mã) sang thiết bị khác, hoặc lưu trữ Backup Codes ra nơi an toàn**. Mất mã quét là mất vĩnh viễn quyền truy cập tài khoản.
@@ -40,7 +41,7 @@ Thế giới Xiaomi có hàng trăm mẫu máy với tên gọi na ná nhau (Ví
 #### TẢI MI FLASH TOOL
 Tải Miflash bản **2017.04.25** https://xiaomiflashtool.com/download/xiaomi-flash-tool-20170425 
 Tải bản này sẽ đỡ lỗi hơn ví dụ timeout như sau
-![[images/error-blog2.png]]
+!(Ảnh lỗi)[images/error-blog2.png]
 1. Giải nén file nén ROM đuôi `.tgz` (bản Global) ra thẳng ổ **C:**. Đổi tên thư mục thật ngắn gọn (Ví dụ: `C:\romchuan`). Mở thử ra xem có thư mục `images` và các file `.bat` bên trong là đúng
     
 2. Mở phần mềm **Mi Flash Tool** (`XiaoMiFlash.exe`).
@@ -98,7 +99,7 @@ Tải bản này sẽ đỡ lỗi hơn ví dụ timeout như sau
 ---
 
 ### ⚡ PHẦN 5: CHỐT HẠ & KHÓA BOOTLOADER (ĐIỂM KHÔNG THỂ QUAY ĐẦU)
-![[images/normal-blog2.png]]
+!(Giao diện)[images/normal-blog2.png]
 1. Trên Mi Flash, bấm nút **Select**. Trỏ đường dẫn đến thư mục `C:\romchuan` (Tuyệt đối chỉ chọn thư mục cha chứa thư mục `images`, không chọn chui vào bên trong `images`).
     
 2. 🔴 **THAO TÁC SỐNG CÒN:** Nhìn xuống góc dưới cùng bên phải phần mềm, dùng chuột click chọn đúng vào ô tròn **`clean all and lock`** (Xóa sạch và khóa Bootloader lại).
@@ -109,7 +110,7 @@ Tải bản này sẽ đỡ lỗi hơn ví dụ timeout như sau
     
 5. Khoanh tay lại và chờ đợi. Thanh màu xanh lá sẽ chạy liên tục.
     
-![[images/success-blog2.png]]
+![Success](images/success-blog2.png)
 
 ---
 
@@ -124,8 +125,9 @@ Tải bản này sẽ đỡ lỗi hơn ví dụ timeout như sau
 4. Khi màn hình "Hello / Xin chào" hiện lên, bạn đã thành công 90%.
     
 5. Mở chế độ nhà phát triển (vào mục Giới thiệu điện thoại) tìm mục Trạng thái mở khóa Mi
-![[images/pic1-blog2.png]]
-![[images/pic1-blog2.png]]
+![Hinh 1](images/pic1-blog2.png)
+![Hinh 2](images/pic1-blog2.png)
+
 ---
 
 > Luu y: Bai viet mang tinh tham khao. Moi thao tac flash ROM/khoa bootloader deu co rui ro, ban can tu chiu trach nhiem va doi chieu them tai lieu chinh thong cho dung model may.
