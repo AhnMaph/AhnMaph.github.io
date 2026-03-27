@@ -1,5 +1,5 @@
 ---
-title: "Cach lock bootloader cho may Xiaomi / Redmi / Poco"
+title: "Cách lock bootloader cho máy Xiaomi / Redmi / Poco"
 date: 2026-03-24 10:30:00 +0700
 categories: [mobile, android]
 tags: [xiaomi, redmi, poco, bootloader, fastboot, miflash]
@@ -7,7 +7,7 @@ pin: false
 toc: true
 ---
 
-> Luu y: Bài viết mang tính tham khảo. Mọi thao tác flash ROM/khoa bootloader đều có rủi ro, bạn cần tự chịu trách nhiệm và đối chiếu thêm tài liệu chính thống cho đúng model máy.
+> Lưu ý: Bài viết mang tính tham khảo. Mọi thao tác flash ROM/khoá bootloader đều có rủi ro, bạn cần tự chịu trách nhiệm và đối chiếu thêm tài liệu chính thống cho đúng model máy.
 
 # WARNING
 
@@ -128,7 +128,9 @@ Tải bản này sẽ đỡ lỗi hơn ví dụ timeout như sau
 4. Khi màn hình "Hello / Xin chào" hiện lên, bạn đã thành công 90%.
     
 5. Mở chế độ nhà phát triển (vào mục Giới thiệu điện thoại) tìm mục Trạng thái mở khóa Mi
+
 ![Hinh 1](images/pic1-blog2.png)
-![Hinh 2](images/pic1-blog2.png)
+
+![Hinh 2](images/pic2-blog2.png)
 
 ---
